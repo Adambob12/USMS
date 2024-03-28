@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching United State Marshals"];
+const statusMessages = ["Watching US Marshals"];
 
 
 let currentIndex = 0;
